@@ -1,1 +1,3 @@
-Check out TailBliss repo for more info.
+Website for Team TORUS, Gemstone Class of 2026.
+
+Create using Hugo and TailBliss.
