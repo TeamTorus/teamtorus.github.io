@@ -28,5 +28,8 @@ Check out Team TORUS's presentation below:
 {{< /rawhtml >}}
 
 Pictures from the event!
-{{< figure src="images/posts/dg_1.jpg">}}
-{{< figure src="images/posts/1-0bee2de3.jpg">}}
+![](/images/posts/dg_1.jpg)
+![](/images/posts/1-0bee2de3.jpg)
+
+<!-- {{< figure src="images/posts/dg_1.jpg">}}
+{{< figure src="images/posts/1-.jpg">}} -->
